@@ -9,10 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "tree-sitter": "^0.20.1"
+  },
   "dependencies": {
     "nan": "^2.17.0"
-  },
-  "devDependencies": {
-    "tree-sitter-cli": "^0.20.7"
   }
 }

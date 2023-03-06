@@ -1,10 +1,10 @@
 [package]
-name = "tree-sitter-Arturo"
-description = "Arturo grammar for the tree-sitter parsing library"
+name = "tree-sitter-YOUR-LANGUAGE-NAME"
+description = "YOUR-LANGUAGE-NAME grammar for the tree-sitter parsing library"
 version = "0.0.1"
-keywords = ["incremental", "parsing", "Arturo"]
+keywords = ["incremental", "parsing", "YOUR-LANGUAGE-NAME"]
 categories = ["parsing", "text-editors"]
-repository = "https://github.com/tree-sitter/tree-sitter-Arturo"
+repository = "https://github.com/tree-sitter/tree-sitter-YOUR-LANGUAGE-NAME"
 edition = "2018"
 license = "MIT"
 

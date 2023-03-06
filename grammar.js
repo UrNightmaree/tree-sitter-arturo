@@ -1,8 +1,7 @@
 module.exports = grammar({
-    name: "Arturo",
-
-    rules: {
-        // TODO: add actual grammar rulese
-        source_file: $=> "hello"
-    }
-})
+  name: 'YOUR_LANGUAGE_NAME',
+  rules: {
+    // TODO: add the actual grammar rules
+    source_file: $ => 'hello'
+  }
+});
